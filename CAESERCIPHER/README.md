@@ -84,19 +84,19 @@ The output `.txt` and graph files are created when their respective operations a
 **Compile:**
 
 ```bash
-javac CaesarCipher.java
+javac CAESERCIPHER.java
 ```
 
 **Run:**
 
 ```bash
-java CaesarCipher
+java CAESERCIPHER
 ```
 
 **Alternative source-file execution (JDK 11+):**
 
 ```bash
-java CaesarCipher.java
+java CAESERCIPHER.java
 ```
 
 **Note:** Java requires the public class name and file name to match. Therefore use `CaesarCipher.java`, not `CEASER-CIPHER.java`.
