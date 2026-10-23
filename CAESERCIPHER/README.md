@@ -197,14 +197,6 @@ For ciphertext `KHOOR`, testing all 25 useful shifts will reveal `HELLO` at shif
 
 By completing this project, students can learn classical encryption/decryption, symmetric keys, modular arithmetic, file input/output in Java, string manipulation, input validation, timestamp handling, elapsed-time measurement, and basic graph generation.
 
-## 16. References and further reading
-
-1. Khan Academy, *The Caesar Cipher*: https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/caesar-cipher
-2. MIT Press Reader, *A History of Cryptography From the Spartans to the FBI*: https://thereader.mitpress.mit.edu/a-history-of-cryptography-from-the-spartans-to-the-fbi/
-3. Rutgers University, *Foundations and Classical Ciphers*: https://people.cs.rutgers.edu/~pxk/classes/419/notes/crypto-1.html
-4. University of Southampton, *Applications to Cryptography*: https://personal.soton.ac.uk/jhr/math1001/chapter-cryptography.html
-5. HISTORY, *8 Ciphers That Shaped History*: https://www.history.com/articles/ciphers-secret-codes-enigma-morse
-
 ---
 
 **Project:** Caesar Cipher — Text and `.txt` File Encryption/Decryption with Key, Timestamps, and Performance Graphs  
