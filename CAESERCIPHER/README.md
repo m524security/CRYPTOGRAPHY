@@ -63,7 +63,7 @@ This Java implementation preserves upper/lowercase, spaces, digits, punctuation,
 ## 5. Project files
 
 ```text
-CaesarCipher.java       Main Java source code
+CAESERCIPHER.java      Main Java source code
 README.md               This project documentation
 FLOWDIAGRAM.png         Execution flowchart
 sample.txt              Optional input example
